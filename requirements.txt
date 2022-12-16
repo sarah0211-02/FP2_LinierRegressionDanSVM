@@ -1,0 +1,9 @@
+Final Project II - Linier Regression dan SVM
+Oleh: KELOMPOK V
+Nama: 
+1. Shendy Krisyohanda
+2. Muhammad Ismail
+3. Syahrani Nabilla Pardede
+Link:
+https://github.com/sarah0211-02/FP2_LinierRegressionDanSVM
+
